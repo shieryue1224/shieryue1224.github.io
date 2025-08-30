@@ -1,8 +1,8 @@
 ---
-title: HelloWorld
+title: Markdown Extension
 date: 2024-04-16
-tags: [HelloWorld, vue, vitepress]
-pinned: true
+tags: [Example, Vitepress, Markdown]
+pinned: false
 head:
   - - meta
     - name: description
@@ -12,7 +12,7 @@ head:
       content: vitepress theme bluearchive HelloWorld
 ---
 
-只是一个 HelloWorld
+这是一个markdown扩展示例.
 
 ---
 
