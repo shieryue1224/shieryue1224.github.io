@@ -18,6 +18,7 @@ title: HelloWorld
 date: 2024-04-16
 tags: [tag1, tag2]
 pinned: true
+cover: /wallpaper-2572384.webp
 head:
   - - meta
     - name: description
@@ -40,7 +41,8 @@ head:
 - date: 发文日期, 时间格式为: YYYY-MM-DD
 - tags: 文章标签, 可以有多个标签, 标签可以帮助文章归类/查找
 - pinned: 是否置顶, true|false, 默认false
-- head: 这里的content最后一个词填文章标题
+- cover: 可选项, 文章封面图片
+- head: 可选项, 这里的content最后一个词填文章标题
 
 
 
