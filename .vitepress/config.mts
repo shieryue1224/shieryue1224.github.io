@@ -66,7 +66,7 @@ export default defineConfigWithTheme<ThemeConfig>({
   ignoreDeadLinks: true,
   // 生成站点地图
   sitemap: {
-    hostname: 'https://blue.zphuang.cn', //替换为你的域名
+    hostname: 'https://luv.zphuang.top', //替换为你的域名
   },
   //站点标题配置
   title: "Dec's 部落格",
@@ -79,7 +79,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     ],
 
     //banner区配置
-    videoBanner: true, //是否显示视频背景
+    videoBanner: false, //是否显示视频背景
     name: "Dec's 碎碎念", //首页标题
     welcomeText: 'Flowers For Lu', //首页欢迎语
     motto: ['和你的日常，就是奇迹', '你很远,也很近,在脑海,也在心里', '生活明朗,万物可爱'], //首页格言
